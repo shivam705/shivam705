@@ -29,15 +29,9 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-<a href="https://linkedin.com/in/shivam705" target="blank"><img align="center" src="<img src="https://img.icons8.com/ios-glyphs/100/000000/linkedin.png"/>" alt="shivam705" height="30" width="40" /></a> <a href="https://instagram.com/rock__sk__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="rock__sk__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam705" target="blank"><img align="center" src="<img src="https://en.wikipedia.org/wiki/Timeline_of_LinkedIn#/media/File:Linkedin.svg"/>" alt="shivam705" height="30" width="40" /></a> <a href="https://instagram.com/rock__sk__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="rock__sk__" height="30" width="40" /></a>
  
-<a href="https://www.codechef.com/users/shivam705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivam705" height="30" width="40" /></a>
- 
-<a href="https://www.hackerrank.com/shivamkushwaha6387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="shivamkushwaha6387" height="30" width="40" /></a>
- 
-<a href="https://www.leetcode.com/recshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="recshivam" height="30" width="40" /></a>
- 
-<a href="https://www.hackerearth.com/@shivamkushwaha61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@shivamkushwaha61" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shivam705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivam705" height="30" width="40" /></a> <a href="https://www.hackerrank.com/shivamkushwaha6387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="shivamkushwaha6387" height="30" width="40" /></a> <a href="https://www.leetcode.com/recshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="recshivam" height="30" width="40" /></a> <a href="https://www.hackerearth.com/@shivamkushwaha61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@shivamkushwaha61" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
