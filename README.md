@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, I'm Shivam Kushwaha!</h1>
 
-<h3 align="center">A passionate .Net full stack developer from India</h3>
+<h3 align="center">A passionate .Net full stack + angular developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam705&label=Profile%20views&color=0e75b6&style=flat" alt="shivam705" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **web development.**
 
-- 🌱 I’m currently learning **something new in flutter app development,DSA.**
+- 🌱 I’m currently learning **something new in .net web development, DSA.**
 
 - 👯 I’m looking to collaborate on **open source/commercial projects.**
 
 - 🤝 I’m looking for help with **VelocityX documentation.**
 
-- 💬 Ask me about **Flutter or tech related stuff.**
+- 💬 Ask me about **.Net, Angular or tech related stuff.**
  
 - 😄 Pronouns: **He/Shivam.**
 
@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
-<p align="left"> <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F.NET&psig=AOvVaw1ZfwvU--AawlJNwT_UD3KI&ust=1683965269562000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDl2M-p7_4CFQAAAAAdAAAAABAE" alt="android" width="40" height="40"/> </a>   
+<p align="left"> <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGOQ3Bg50SQKLrC_hgFa3LgLvneWbe47gd96T1WJwvQ&usqp=CAU&ec=48665701" alt="android" width="40" height="40"/> </a>   
  <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="arduino" width="40" height="40"/> </a>   
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://static.javatpoint.com/csharp/images/c-sharp.png" alt="c" width="40" height="40"/> </a>   
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   
