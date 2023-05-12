@@ -32,11 +32,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>   
- <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
+<p align="left"> <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F.NET&psig=AOvVaw1ZfwvU--AawlJNwT_UD3KI&ust=1683965269562000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDl2M-p7_4CFQAAAAAdAAAAABAE" alt="android" width="40" height="40"/> </a>   
+ <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="arduino" width="40" height="40"/> </a>   
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://static.javatpoint.com/csharp/images/c-sharp.png" alt="c" width="40" height="40"/> </a>   
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </p>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam705&show_icons=true&locale=en&layout=compact" alt="shivam705" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam705&show_icons=true&locale=en" alt="shivam705" /></p>
